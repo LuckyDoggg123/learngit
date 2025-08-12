@@ -3,3 +3,4 @@ Git is software distributed under the GPL.
 Git has mutable index called stage.
 Git tracks changes.
 666666
+creating a new branch is quick
